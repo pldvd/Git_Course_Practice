@@ -8,3 +8,5 @@ The staging area serves as an intermediate stage between the working directory a
 
 This line is only to show the differences between two files. 
 adslfökjadslköjfds
+
+Now there is some more modifications.
